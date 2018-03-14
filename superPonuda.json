@@ -1,0 +1,26 @@
+[
+  {
+    "grad" : "HAWAII",
+    "pozicija" : "HOSTESS",
+    "src" : "images/hawaii.jpg",
+    "alt" : "HAWAII",
+    "satnica" : 15,
+    "id" : 3
+  },
+  {
+    "grad" : "FLORIDA",
+    "pozicija" : "DELI/MARKET",
+    "src" : "images/florida.jpg",
+    "alt" : "FLORIDA",
+    "satnica" : 9,
+    "id" : 1
+  },
+  {
+    "grad" : "MAINE",
+    "pozicija" : "RETAIL",
+    "src" : "images/maine.jpg",
+    "alt" : "MAINE",
+    "satnica" : 13,
+    "id" : 1
+  }
+]

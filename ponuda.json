@@ -1,0 +1,106 @@
+[
+  {
+    "grad" : "HAWAII",
+    "pozicija" : "HOSTESS",
+    "src" : "images/hawaii.jpg",
+    "alt" : "HAWAII",
+    "satnica" : 15,
+    "id" : 3
+  },
+  {
+    "grad" : "FLORIDA",
+    "pozicija" : "DELI/MARKET",
+    "src" : "images/florida.jpg",
+    "alt" : "FLORIDA",
+    "satnica" : 9,
+    "id" : 1
+  },
+  {
+    "grad" : "ALJASKA",
+    "pozicija" : "DISHWASHER",
+    "src" : "images/aljaska2.jpg",
+    "alt" : "ALJASKA",
+    "satnica" : 14,
+    "id" : 3
+  },
+  {
+    "grad" : "OCEAN CITY",
+    "pozicija" : "LAUNDARY",
+    "src" : "images/oceanc.jpg",
+    "alt" : "OCEAN CITY",
+    "satnica" : 11,
+    "id" : 1
+  },
+  {
+    "grad" : "CAPE COD",
+    "pozicija" : "WAITER",
+    "src" : "images/capec.jpg",
+    "alt" : "CAPE COD",
+    "satnica" : 12,
+    "id" : 1
+  },
+  {
+    "grad" : "BOSTON",
+    "pozicija" : "DELI/MARKET",
+    "src" : "images/boston.jpg",
+    "alt" : "BOSTON",
+    "satnica" : 10,
+    "id" : 1
+  },
+  {
+    "grad" : "SAN FRANCISCO",
+    "pozicija" : "RETAIL",
+    "src" : "images/sanf.jpg",
+    "alt" : "SAN FRANCISCO",
+    "satnica" : 10,
+    "id" : 3
+  },
+  {
+    "grad" : "MYRTLE BEACH",
+    "pozicija" : "DELI/MARKET",
+    "src" : "images/myrtleb.jpg",
+    "alt" : "MYRTLE BEACH",
+    "satnica" : 13,
+    "id" : 1
+  },
+  {
+    "grad" : "HUSTON",
+    "pozicija" : "DISHWASHER",
+    "src" : "images/huston.jpg",
+    "alt" : "HUSTON",
+    "satnica" : "9",
+    "id" : 2
+  },
+  {
+    "grad" : "MARTHA'S VINEYARD",
+    "pozicija" : "HOSTESS",
+    "src" : "images/marthas.jpg",
+    "alt" : "MARTHA'S VINEYARD",
+    "satnica" : 14,
+    "id" : 1
+  },
+  {
+    "grad" : "MAINE",
+    "pozicija" : "RETAIL",
+    "src" : "images/maine.jpg",
+    "alt" : "MAINE",
+    "satnica" : 13,
+    "id" : 1
+  },
+  {
+    "grad" : "LAKE GEORGE",
+    "pozicija" : "DELI/MARKET",
+    "src" : "images/lakeg.jpg",
+    "alt" : "LAKE GEORGE",
+    "satnica" : 15,
+    "id" : 1
+  },
+  {
+    "grad" : "SAN DIEGO",
+    "pozicija" : "LAUNDARY",
+    "src" : "images/sand.jpg",
+    "alt" : "SAN DIEGO",
+    "satnica" : 11,
+    "id" : 3
+  }
+]
